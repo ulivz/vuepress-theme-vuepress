@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-vuepress",
+  "version": "1.0.0",
+  "description": "for development of vuepress theme",
+  "main": "Layout.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vuepress-theme-vuepress.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "ULIVZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vuepress-theme-vuepress/issues"
+  },
+  "homepage": "https://github.com/vuejs/vuepress-theme-vuepress#readme"
+}
